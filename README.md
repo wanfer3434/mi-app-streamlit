@@ -1,10 +1,34 @@
-## <h1 align="center"><b><i>SATISFYIQ</i></b></h1> 
+## <h1 align="center"><b><i>SatisfyIQ</i></b></h1> 
+
+## :eight_spoked_asterisk: **_Sobre nosotros_**
+
+En SatisfyIQ, nos especializamos en ayudar a los restaurantes a mejorar su desempeño y reputación mediante el análisis de reseñas y calificaciones de clientes. Ofrecemos a los restaurantes las herramientas necesarias para entender a fondo lo que piensan sus clientes, identificar áreas de mejora, y aprovechar una ventaja competitiva al comparar su rendimiento con el de sus principales competidores.
+
+Nuestro enfoque está basado en datos, lo que permite a los restaurantes tomar decisiones informadas y estratégicas que impactan directamente en la satisfacción del cliente. En SatisfyIQ, creemos que una reputación sólida y un servicio optimizado son las claves del éxito en la industria gastronómica.
 
 ## :eight_spoked_asterisk: **_Cliente Objetivo_**
 
+Nuestro cliente ideal es un restaurante ubicado en Florida, que busca optimizar su desempeño y reputación en línea. Son negocios que desean entender mejor cómo los perciben sus clientes, gestionar de manera eficiente sus reseñas, y obtener una ventaja competitiva frente a sus principales competidores. Estos restaurantes están interesados en mejorar su calificación general, aumentar las reseñas positivas y ajustar sus estrategias para alinearse mejor con las expectativas de sus comensales.
+
 ## :eight_spoked_asterisk: **_Objetivo General_**
 
-## :eight_spoked_asterisk: **_Objetivo Especificos_**
+El objetivo general de **SatisfyIQ** es proporcionar a los restaurantes en Florida, herramientas y análisis basados en datos que les permitan mejorar su desempeño, optimizar la gestión de reseñas y aumentar la satisfacción del cliente. A través de informes detallados y comparaciones con la competencia, buscamos ayudar a los restaurantes a tomar decisiones estratégicas que impulsen su éxito en un mercado altamente competitivo.
+
+## :eight_spoked_asterisk: **_Objetivos Especificos_**
+
+**1.** Proporcionar informes detallados sobre el desempeño de los restaurantes, analizando reseñas y calificaciones para identificar áreas de mejora y puntos fuertes.
+
+**2.** Consolidar y centralizar todas las reseñas de diversas plataformas (Yelp, Google, etc.) en un unico dashboard, facilitando su lectura y gestión para los restaurantes.
+
+**3.** Ofrecer comparaciones estratégicas con los principales competidores, mostrando cómo se posiciona el restaurante en el mercado y qué ajustes realizar para mejorar su rendimiento.
+
+**4.** Identificar tendencias clave en las preferencias de los clientes mediante el análisis de comentarios, lo que permite a los restaurantes adaptar sus menús, servicios y estrategias de marketing.
+
+**5.** Optimizar la respuesta a reseñas negativas y positivas, ayudando a los restaurantes a mejorar la interacción con los clientes y aumentar su reputación en línea.
+
+**6.** Desarrollar estrategias basadas en datos que permitan a los restaurantes incrementar su calificación positiva y reducir las reseñas negativas de manera consistente.
+
+**7.** Monitorear el progreso del restaurante a lo largo del tiempo, ofreciendo métricas clave que permitan una mejora continua y sostenida en su reputación y servicio.
 
 ## :eight_spoked_asterisk: **_Alcance_**
 
