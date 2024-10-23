@@ -42,16 +42,27 @@ Además, **SatisfyIQ** proporciona una ventaja competitiva al comparar el desemp
 
 ## :eight_spoked_asterisk: **_Key performance indicators (Kpis)_**
 
-**:one:_Kpi:_ Tasa de Variación en Sentimientos de Reseñas:** Este KPI mide la variación porcentual en el número de reseñas por sentimiento (positivas, negativas y neutrales) entre dos períodos de tiempo. Proporciona una visión clara de cómo ha cambiado la percepción del restaurante en la opinión de los clientes. Esto permite evaluar si las estrategias implementadas están impactando positivamente la satisfacción del cliente o si hay áreas que requieren mayor atención.
+**:one:_Kpi:_ Ranking de Desempeño del Restaurante por Reseñas** 
+
+Este KPI proporciona un ranking que indica la posición de un restaurante en comparación con otros, basado en el número total de reseñas y la calificación promedio. Este puntaje no solo refleja la cantidad de opiniones recibidas, sino que también considera la calidad de dichas reseñas. Así, los restaurantes pueden entender mejor su desempeño relativo en el mercado y cómo pueden mejorar su visibilidad.
+
+**Fórmula**:(Promedio de Calificación * Peso1) + (Número de Reseñas * Peso2)
+
+Este KPI también permite monitorear cómo ha cambiado la posición del restaurante en el ranking en un período de tiempo específico, como un mes. Por ejemplo, si un restaurante bajó 3 posiciones en el ranking respecto al mes anterior, esto indica que su puntaje ha disminuido en relación a otros restaurantes. Este cambio puede ser un signo de la necesidad de ajustar estrategias para mejorar tanto la calidad como la cantidad de reseñas.
+
+**:two:_Kpi:_ Tasa de Variación en Sentimientos de Reseñas** 
+
+Este KPI mide la variación porcentual en el número de reseñas por sentimiento (positivas, negativas y neutrales) entre dos períodos de tiempo. Proporciona una visión clara de cómo ha cambiado la percepción del restaurante en la opinión de los clientes. Esto permite evaluar si las estrategias implementadas están impactando positivamente la satisfacción del cliente o si hay áreas que requieren mayor atención.
 
 **Fórmula**:
 ((Número de Reseñas del Período Actual - Número de Reseñas del Período Anterior) / Número de Reseñas del Período Anterior) * 100
+
 
 ## :eight_spoked_asterisk: **_Entregables_**
 
 **Sprint 1:**
 
-## :eight_spoked_asterisk: **_Pipeline y tecnologias usadas_**
+## :eight_spoked_asterisk: **_Pipeline y Stack tecnologico_**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
