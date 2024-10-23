@@ -1,5 +1,10 @@
 ## <h1 align="center"><b><i>SatisfyIQ</i></b></h1> 
 
+<p align="center">
+  <img src="images/logo.jpeg" alt="Logo" width="300"/>
+</p>
+
+
 ## :eight_spoked_asterisk: **_Sobre nosotros_**
 
 En **SatisfyIQ**, nos especializamos en ayudar a los restaurantes a mejorar su desempeño y reputación mediante el análisis de reseñas y calificaciones de clientes. Ofrecemos a los restaurantes las herramientas necesarias para entender a fondo lo que piensan sus clientes, identificar áreas de mejora, y aprovechar una ventaja competitiva al comparar su rendimiento con el de sus principales competidores.
