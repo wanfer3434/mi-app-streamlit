@@ -49,7 +49,7 @@ Además, **SatisfyIQ** proporciona una ventaja competitiva al comparar el desemp
 
 **:one:_Kpi:_ Ranking de Desempeño del Restaurante por Reseñas** 
 
-Este KPI proporciona un ranking que indica la posición de un restaurante en comparación con otros, basado en el número total de reseñas y la calificación promedio. Este puntaje no solo refleja la cantidad de opiniones recibidas, sino que también considera la calidad de dichas reseñas. Así, los restaurantes pueden entender mejor su desempeño relativo en el mercado y cómo pueden mejorar su visibilidad.
+Este KPI proporciona un ranking que indica la posición de un restaurante en comparación con otros, basado en el número total de reseñas y la calificación promedio. Este puntaje no solo refleja la cantidad de opiniones recibidas, sino que también considera la calidad de dichas reseñas. Así, los restaurantes pueden entender mejor su desempeño relativo en el mercado y cómo pueden mejorar su visibilidad sostenido por una linea temporal.
 
 **Fórmula**:(Promedio de Calificación * Peso1) + (Número de Reseñas * Peso2)
 
@@ -62,10 +62,24 @@ Este KPI mide la variación porcentual en el número de reseñas por sentimiento
 **Fórmula**:
 ((Número de Reseñas del Período Actual - Número de Reseñas del Período Anterior) / Número de Reseñas del Período Anterior) * 100
 
+**:three:_Kpi:_ Tasa de Crecimiento de Reseñas** 
+
+Este KPI mide el crecimiento o decrecimiento en la cantidad de reseñas recibidas por un restaurante en un período específico. Es útil para monitorear el interés de los clientes y el nivel de interacción con el negocio, lo que permite identificar si las estrategias de marketing y satisfacción están siendo efectivas para atraer reseñas.
+
+**Fórmula**:((Numero de reseñas del periodo actual - numero de reseñas de periodo anterior)/numero de reseñas del periodo anterior)*100
+
+**:four:_Kpi:_ Ratio de Interacción de Reseñas** 
+
+Mide cuántas reseñas se respondieron dentro de un período específico. Esto puede ayudar a evaluar la proactividad del restaurante en la atención al cliente.
+
+**Fórmula**: (numero de reseñas respondidas/ numero total de reseñas) * 100
+
 
 ## :eight_spoked_asterisk: **_Entregables_**
 
-**Sprint 1:**
+**Sprint 1:** En este primer sprint, nos enfocaremos en implementar un proceso de extracción, transformación y carga (ETL) para recopilar y estructurar datos de reseñas de restaurantes de plataformas como Yelp y Google. Posteriormente, realizaremos un análisis exploratorio de datos (EDA) para identificar tendencias, correlaciones y patrones relevantes, lo que nos permitirá obtener insights sobre la satisfacción del cliente y la calidad del servicio.
+
+Además, desarrollaremos una idea de negocio que utilice estos insights para ayudar a los restaurantes a mejorar su oferta y atraer más clientes. Se definirán indicadores clave de desempeño (KPIs). Al finalizar este sprint, tendremos una base sólida para futuras decisiones estratégicas y mejoras en el servicio.
 
 ## :eight_spoked_asterisk: **_Pipeline y Stack tecnologico_**
 
