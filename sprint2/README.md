@@ -15,10 +15,28 @@ Se crea un bucket en Google Cloud Platform (GCP) para almacenar datos crudos de 
 - **user**: Data del usuario incluyendo referencias a otros usuarios amigos y a toda la metadata asociada al usuario.
 - **tips**: Tips (consejos) escritos por el usuario. Los tips son más cortas que las reseñas y tienden a dar sugerencias rápidas.
 
-## :eight_spoked_asterisk: **_Data lake_**
+## :eight_spoked_asterisk: **_Almacenamiento data limpia_**
 
 Para manejar los datos procesados, creamos un segundo bucket en Google Cloud Storage llamado `mi-bucket-data-clean`. Este bucket servirá como un Data Lake donde almacenaremos las versiones limpias y transformadas de los datos de reseñas. Estos datos limpios están preparados para análisis adicionales y son más fáciles de gestionar en comparación con los datos crudos.
+
+Los datos crudos en el bucket de `mi-bucket-data-crudos` se procesan para eliminar duplicados y valores nulos, y filtrar solo las reseñas y atributos relevantes para nuestro análisis. Nos enfocamos en dos tablas: `business` y `reviews`, tanto de Yelp como de Google, en donde encontraremos:
+
+- **mi-bucket-data-clean:** Contiene la data ya procesada y normalizada. Este bucket se divide en dos secciones:
+  - **Google**: Incluye dos tablas:
+     - **Metadata-sitios:** Donde se guarda toda la información sobre los negocios.
+     - **florida**: Se guardo la informacion de las reviews de florida.
+   
+  - **Yelp**: Incluye dos tablas:
+     - **business:** Donde se guarda toda la información sobre los negocios.
+     - **review**: Se guardo la informacion de las reviews de florida.
+  
+Reviews de negocios: Donde almaceno las reseñas de los negocios.
+Datos de Yelp: Incluye tres tablas:
+Business: Contiene la información sobre los negocios de Yelp.
+Reviews: Donde se almacenan todas las reseñas asociadas a los negocios de Yelp.
+Users y Tips: Una tabla que contiene información sobre los usuarios y los tips que dejan en la plataforma.
 
 ## :eight_spoked_asterisk: **_Carga autoincremental_**
 
 ## :eight_spoked_asterisk: **_Data Warehouse_**
+
