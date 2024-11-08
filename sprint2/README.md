@@ -29,12 +29,6 @@ Los datos crudos en el bucket de `mi-bucket-data-crudos` se procesan para elimin
   - **Yelp**: Incluye dos tablas:
      - **business:** Donde se guarda toda la información sobre los negocios.
      - **review**: Se guardo la informacion de las reviews de florida.
-  
-Reviews de negocios: Donde almaceno las reseñas de los negocios.
-Datos de Yelp: Incluye tres tablas:
-Business: Contiene la información sobre los negocios de Yelp.
-Reviews: Donde se almacenan todas las reseñas asociadas a los negocios de Yelp.
-Users y Tips: Una tabla que contiene información sobre los usuarios y los tips que dejan en la plataforma.
 
 ## :eight_spoked_asterisk: **_Carga autoincremental_**
 
