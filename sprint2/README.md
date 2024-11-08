@@ -41,6 +41,12 @@ Al transferir nuestros datos limpios desde el Data Lake a BigQuery, logramos var
 - **Centralización del Almacenamiento:** BigQuery permite gestionar grandes volúmenes de datos en un entorno centralizado, seguro y optimizado para consultas SQL.
 - **Preparación para Análisis:** Con los datos almacenados en un formato estructurado, ahora podemos aplicar modelos de machine learning, realizar análisis de tendencias y obtener insights sobre las reseñas de los restaurantes de Google y Yelp.
 
+### Carga de archivos a Big query
+En BigQuery, Creamos una base de datos para almacenar tablas de la siguiente manera: 
+Ingresa el URI del archivo de datos limpios que queremos cargar
+- **Yelp:** `mi-bucket-data-clean/yelp/carpeta correspondiente/business.json y review.json`
+- **Google:** `mi-bucket-data-clean/google/carpeta correspondiente/*.parquet`
 
 ## :eight_spoked_asterisk: **_Carga autoincremental_**
 
+La Carga Autoincremental en BigQuery es un proceso diario que permite mantener nuestros datos limpios y únicos, eliminando registros duplicados automáticamente. Este proceso se implementa mediante un query programado que ejecuta una consulta de limpieza en nuestra tabla de datos.
