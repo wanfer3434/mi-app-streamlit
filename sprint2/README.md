@@ -50,3 +50,7 @@ Ingresa el URI del archivo de datos limpios que queremos cargar
 ## :eight_spoked_asterisk: **_Carga autoincremental_**
 
 La Carga Autoincremental en BigQuery es un proceso diario que permite mantener nuestros datos limpios y únicos, eliminando registros duplicados automáticamente. Este proceso se implementa mediante un query programado que ejecuta una consulta de limpieza en nuestra tabla de datos.
+
+<p align="center">
+  <img src="images/carga_autoincremental.png" alt="Logo" width="1000"/>
+</p>
