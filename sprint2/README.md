@@ -58,3 +58,9 @@ La Carga Autoincremental en BigQuery es un proceso diario que permite mantener n
 <p align="center">
   <img src="images/carga_autoincremental.png" alt="Logo" width="1000"/>
 </p>
+
+## :eight_spoked_asterisk: **_Entidad-Relacion_**
+
+<p align="center">
+  <img src="images/DiagramaER.png" alt="Logo" width="1000"/>
+</p>
