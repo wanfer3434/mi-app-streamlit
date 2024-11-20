@@ -93,6 +93,11 @@ Además, desarrollaremos una idea de negocio que utilice estos insights para ayu
 
 ## :eight_spoked_asterisk: **_Dashboard_**
 
+## :eight_spoked_asterisk: **_Modelo de machine learning_**
+Nuestro cliente podra predecir mediante esta aplicacion el restaurante que mejor se adapte a los parametros seleccionados
+
+**🔗Link App Restaurante:** https://fastapi-ml-model-v6ks.onrender.com/
+
 ## :eight_spoked_asterisk: **_Conclusiones_**
 
 ## :green_book: **_Datasets_**
