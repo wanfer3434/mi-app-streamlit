@@ -25,6 +25,7 @@ df_atributos = pd.read_parquet("df_atributos.parquet")
 city_counts = df_yelp['city'].value_counts()
 top_cities = city_counts.nlargest(5).index
 df_filtered = df_yelp[df_yelp['city'].isin(top_cities)]
+print(top_cities)
 
 encoder = OneHotEncoder(sparse_output=False)
 city_encoded = encoder.fit_transform(df_filtered[['city']])
