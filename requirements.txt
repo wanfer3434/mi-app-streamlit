@@ -1,0 +1,11 @@
+google-cloud-storage
+google-cloud-bigquery
+pandas
+streamlit
+matplotlib
+seaborn
+plotly
+google-auth
+wordcloud
+folium
+streamlit-folium
